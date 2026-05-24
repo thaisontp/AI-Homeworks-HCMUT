@@ -23,5 +23,6 @@ Các bài tập được phân chia theo từng file Python, dataset và tài li
   → Tài liệu tham khảo: `super-cheatsheet-machine-learning.pdf`
 
 ### Homework 5
+- **Image Compression Data** → folder `KNN_image`
 - **Image Compression using K-Means** → `KNN_image.py`
 
